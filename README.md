@@ -101,7 +101,8 @@
 ##### Файл `input.txt` для быстрого ввода кода на учебном конфигурационном языке
 ![image](https://github.com/user-attachments/assets/00c8e98a-05cf-4e6b-a312-9f85e379bac5)
 ##### Результат работы программы с данным файлом
-![image](https://github.com/user-attachments/assets/46e51eb3-7f7b-4591-8601-029e1e5c0a27)
+![image](https://github.com/user-attachments/assets/0b64c83b-66c3-4603-ad49-470934125547)
+
 
 
 #### Тест 2
