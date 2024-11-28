@@ -99,16 +99,17 @@
 #### Тест 1
 
 ##### Файл `input.txt` для быстрого ввода кода на учебном конфигурационном языке
-![image](https://github.com/user-attachments/assets/72bb708c-e6d2-4fed-b398-9a76dd07be34)
+![image](https://github.com/user-attachments/assets/00c8e98a-05cf-4e6b-a312-9f85e379bac5)
 ##### Результат работы программы с данным файлом
-![image](https://github.com/user-attachments/assets/532003bd-04cb-4966-9322-739cb95b4cfe)
+![image](https://github.com/user-attachments/assets/46e51eb3-7f7b-4591-8601-029e1e5c0a27)
+
 
 #### Тест 2
 
 ##### Файл `input_2.txt` для быстрого ввода кода на учебном конфигурационном языке
-![image](https://github.com/user-attachments/assets/52f2623b-fb0e-4597-ac7f-91d3f9ded4e2)
-
+![image](https://github.com/user-attachments/assets/281609de-3130-463d-b834-939086f2fd1a)
 ##### Результат работы программы с данным файлом
-![image](https://github.com/user-attachments/assets/52c41d2e-6bce-4a74-8011-5a87e415b4f1)
+![image](https://github.com/user-attachments/assets/662a07d0-2a8e-4808-8db2-a3ebd57b409b)
+
 
 
