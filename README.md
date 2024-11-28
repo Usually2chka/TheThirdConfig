@@ -101,16 +101,14 @@
 ##### Файл `input.txt` для быстрого ввода кода на учебном конфигурационном языке
 ![image](https://github.com/user-attachments/assets/00c8e98a-05cf-4e6b-a312-9f85e379bac5)
 ##### Результат работы программы с данным файлом
-![image](https://github.com/user-attachments/assets/0b64c83b-66c3-4603-ad49-470934125547)
-
-
+![image](https://github.com/user-attachments/assets/680821b4-7fbe-4e26-9cf8-66fee34e7d0d)
 
 #### Тест 2
-
 ##### Файл `input_2.txt` для быстрого ввода кода на учебном конфигурационном языке
 ![image](https://github.com/user-attachments/assets/281609de-3130-463d-b834-939086f2fd1a)
 ##### Результат работы программы с данным файлом
-![image](https://github.com/user-attachments/assets/662a07d0-2a8e-4808-8db2-a3ebd57b409b)
+![image](https://github.com/user-attachments/assets/f0d55da2-75a5-4a6d-91d5-f60b1504c9aa)
+
 
 
 
